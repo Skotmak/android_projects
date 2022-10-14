@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456606809381",
+    "project_id": "mytaxi-8ea0d",
+    "storage_bucket": "mytaxi-8ea0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456606809381:android:523960e6333e8013832ecc",
+        "android_client_info": {
+          "package_name": "com.skotmak.mytaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456606809381-1n0ffeo41i4ogb0fnt8f3v36kbg8s36f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGOjO4azp6P6AGNfyIE7pcUBStRa5VVGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456606809381-1n0ffeo41i4ogb0fnt8f3v36kbg8s36f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson_9</string>
+    <string name="test_title">My alert test</string>
+    <string name="test_message">Simple alert dialog message</string>
+</resources>
